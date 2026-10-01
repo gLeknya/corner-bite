@@ -2,6 +2,8 @@
 
 A library for creating and smoothly animating shapes with rounded **convex** and **concave** ("bitten") corners in HTML/CSS/JS.
 
+[**You can also check the demo**](https://gleknya.github.io/corner-bite/demo/)
+
 Built for desktop and web interfaces (panels, cards, players, sidebars, tabs) where blocks connect with smooth rounded transitions at junctions and animate without shape jumps.
 
 - **0 runtime dependencies.**
